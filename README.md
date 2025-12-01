@@ -34,10 +34,11 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Xfce Adjustment](https://samwhelp.github.io/xfce-adjustment/) | [GitHub](https://github.com/samwhelp/xfce-adjustment) |
-| [Archlinux Xfce Adjustment](https://samwhelp.github.io/archlinux-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-xfce-adjustment) |
 | [Debian Xfce Adjustment](https://samwhelp.github.io/debian-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/debian-xfce-adjustment) |
 | [Ubuntu Xfce Adjustment](https://samwhelp.github.io/ubuntu-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-xfce-adjustment) |
 | [Fedora Xfce Adjustment](https://samwhelp.github.io/fedora-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/fedora-xfce-adjustment) |
+| [Archlinux Xfce Adjustment](https://samwhelp.github.io/archlinux-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-xfce-adjustment) |
+| [Manjaro Xfce Adjustment](https://samwhelp.github.io/manjaro-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/manjaro-xfce-adjustment) |
 
 
 
